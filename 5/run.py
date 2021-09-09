@@ -9,7 +9,7 @@ def operation_type(num1,num2,result):
     elif(num1/num2)==result:
         operation ="division"
     else:
-        operation ="unknown"
+        operation ="invalid operation"
 
     return operation
 
