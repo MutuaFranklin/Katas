@@ -10,7 +10,7 @@ PSEUDOCODE
 
 - prompt user input
 - declare a function to validate if a number begins 254, 07, 01,71 and  converts to start with +254
-- use startswith method to confirm if the number begins with the specified list of numbers and store to variable newNumber
+- use startswith method to confirm if the number begins with the specified list of numbers, replace and store to variable newNumber
 - return newNumber
 - Declare variable result to store returned results of the function
 - print results
