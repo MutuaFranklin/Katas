@@ -1,0 +1,1 @@
+Find the number of times 3 occurs in each and every number from 0-n

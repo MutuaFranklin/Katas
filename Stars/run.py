@@ -6,7 +6,7 @@ def print_stars(number):
     try: 
         number = int(number)
 
-        for i in range(1, number + 1):
+        for i in range(1, number+1):
                 print(i * '*')
        
     except ValueError:

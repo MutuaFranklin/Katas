@@ -4,7 +4,6 @@ list2 = [10, 30, 40, 70, 12]
 
 def make_selection(list2):
     selected_list =[list2[0],list2[-1]]
-
     return selected_list
 
 result = make_selection(list2)
